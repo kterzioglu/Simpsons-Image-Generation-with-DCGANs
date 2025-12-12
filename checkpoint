@@ -1,0 +1,2 @@
+model_checkpoint_path: "gan-simposon-model.h5-20"
+all_model_checkpoint_paths: "gan-simposon-model.h5-20"
